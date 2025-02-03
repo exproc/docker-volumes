@@ -1,0 +1,3 @@
+volumes:
+  geoip-data:
+    name: geoip-data
