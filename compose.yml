@@ -9,4 +9,11 @@ volumes:
     name: influxdb  
   prometheus-data:
     name: prometheus-data
-
+ semaphore_data:
+   name: semaphore-data
+  semaphore_config:
+   name: semaphore-config
+  semaphore_tmp:
+    name: semaphore-temp
+  semaphore_home:
+    name: semaphore-home 
