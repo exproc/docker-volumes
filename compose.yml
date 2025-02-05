@@ -17,3 +17,5 @@ volumes:
     name: semaphore-temp
   semaphore_home:
     name: semaphore-home 
+  influx-config:
+    name: influxdb-config 
