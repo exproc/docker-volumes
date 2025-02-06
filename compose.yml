@@ -5,8 +5,6 @@ volumes:
    name: loki-data
   grafana-data:
    name: grafana-data
-  influxdb-data:
-    name: influxdb  
   prometheus-data:
     name: prometheus-data
   semaphore_data:
@@ -17,5 +15,7 @@ volumes:
     name: semaphore-temp
   semaphore_home:
     name: semaphore-home 
-  influx-config:
-    name: influxdb-config 
+  influxdb2-data:
+    name:  influxdb2-data
+  influxdb2-config:
+    name: influxdb2-config
