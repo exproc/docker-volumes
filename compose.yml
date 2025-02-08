@@ -19,3 +19,5 @@ volumes:
     name:  influxdb2-data
   influxdb2-config:
     name: influxdb2-config
+  ntfy-data:
+    name: ntfy-data  
