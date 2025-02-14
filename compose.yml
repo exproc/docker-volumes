@@ -21,3 +21,5 @@ volumes:
     name: influxdb2-config
   ntfy-data:
     name: ntfy-data  
+  postgres17_data:
+   name: postgres17_data
