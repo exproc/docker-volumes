@@ -27,3 +27,5 @@ volumes:
    name: pgadmin_data
   redis-data:
    name: redis-data
+  nextcloud-html:
+   name: nextcloud-html
