@@ -29,3 +29,5 @@ volumes:
    name: redis-data
   nextcloud-html:
    name: nextcloud-html
+  nextcloud-data:
+   name: nextcloud-data
