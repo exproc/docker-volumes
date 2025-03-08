@@ -31,3 +31,6 @@ volumes:
    name: nextcloud-html
   nextcloud-data:
    name: nextcloud-data
+  mysql_data:
+   name: mysql_data  
+   
