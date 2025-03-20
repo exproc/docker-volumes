@@ -31,6 +31,9 @@ volumes:
    name: nextcloud-html
   nextcloud-data:
    name: nextcloud-data
-  mysql_data:
-   name: mysql_data  
-   
+  netboot-data:
+   name: netboot-data  
+  semaphore_data:
+   name: netboot-data
+  netboot-config:
+   name: netboot-config 
