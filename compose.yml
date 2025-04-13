@@ -37,3 +37,5 @@ volumes:
    name: netboot-assets  
   netboot-config:
    name: netboot-config 
+  synapse-data:
+   name: synapse-data
