@@ -45,3 +45,5 @@ volumes:
    name: dendrite-jetstream
   dendrite-search-index:
    name: dendrite-search-index
+  portainer-data:
+    name: portainer-data
