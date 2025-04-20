@@ -39,3 +39,9 @@ volumes:
    name: netboot-config 
   synapse-data:
    name: synapse-data
+  dendrite-media: 
+   name: dendrite-media
+  dendrite-jetstream:
+   name: dendrite-jetstream
+  dendrite-search-index:
+   name: dendrite-search-index
