@@ -49,3 +49,5 @@ volumes:
    name: dendrite-search-index
   portainer-data:
     name: portainer-data
+  minio-data:
+    name: minio-data
